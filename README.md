@@ -1,2 +1,2 @@
 # tallerGit
-Aca de resolvera el taller
+Aca se resolvera el taller
